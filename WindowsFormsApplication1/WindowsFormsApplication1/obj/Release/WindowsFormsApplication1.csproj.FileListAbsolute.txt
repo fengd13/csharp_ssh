@@ -1,0 +1,13 @@
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Renci.SshNet.dll
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Renci.SshNet.xml
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\fd\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MaterialSkin.dll
